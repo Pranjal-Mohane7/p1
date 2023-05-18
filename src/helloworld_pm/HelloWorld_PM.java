@@ -15,6 +15,7 @@ public class HelloWorld_PM {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World! Wassup");
+        System.out.println("This is a demo for git");
             }
     
 }
